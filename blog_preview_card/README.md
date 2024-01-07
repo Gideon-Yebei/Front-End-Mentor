@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [blog_preview_card code](https://github.com/Zenith-Nova/Front-End-Mentor/tree/main/blog_preview_card)
+- Live Site URL: [Blog preview card live](https://front-end-mentor-lemon.vercel.app/)
 
 ## My process
 
